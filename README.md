@@ -81,11 +81,11 @@ Qué corrigió el grupo: Se ajustaron nombres de paquetes, validaciones y detall
 
 ##  Evidencia de pruebas
 
-![Postman 1]([https://link-de-tu-imagen-1.png](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002748.png)
+![Postman](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002748.png)
 
-![Postman 2]([https://link-de-tu-imagen-2.png](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002237.png)
+![image alt](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002237.png)
 
-![Postman 3]([https://link-de-tu-imagen-3.png](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002748.png)
+![image alt](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002139.png)
 
 ##  Autor
 Juan Jose Rodriguez Gomez- Juan David Narvaez Mosquera- Fredy ALejandro Olaya
