@@ -17,7 +17,7 @@ Este proyecto es una API REST desarrollada con Spring Boot, aplicando programaci
 
 ##  Cómo ejecutar el proyecto
 Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https:[//github.com/TU-USUARIO/TU-REPO.git](https://github.com/toxico292008-afk/demo1)
 
 Abrir en IntelliJ IDEA y ejecutar la clase:
 DemoApplication.java
@@ -88,5 +88,6 @@ Qué corrigió el grupo: Se ajustaron nombres de paquetes, validaciones y detall
 ![image alt](https://github.com/toxico292008-afk/akeno1212/blob/6fbfa3c8a6f4b65b545ec4c6b365fbe7a081f646/Captura%20de%20pantalla%202026-04-17%20002139.png)
 
 ##  Autor
-Juan Jose Rodriguez Gomez- Juan David Narvaez Mosquera- Fredy ALejandro Olaya
+Juan Jose Rodriguez Gomez- Juan David Narvaez Mosquera- Fredy ALejandro Olaya - Sebastian Andres Polo Gonzales
+
 Proyecto realizado por el grupo de desarrollo - Spring Boot API REST
